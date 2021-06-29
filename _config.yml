@@ -49,12 +49,12 @@ navigation_footer:
 # Collections
 collections:
   posts:
-    title: Posts
+    title: Announcements
     output: true
-    description: "My thoughts and ideas"
+    description: "General body meetings are every other _____ from ___ to ___"
     feature_text: |
-      Welcome to my blog
-    feature_image: "https://picsum.photos/2560/600?image=866"
+      UCF Cognitive Science
+    feature_image: "https://static.vecteezy.com/system/resources/thumbnails/000/585/305/small/006-13.jpg"
 
 # Collection settings
 defaults:
