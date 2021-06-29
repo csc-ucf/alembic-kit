@@ -21,7 +21,7 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://ucf-csc.netlify.app/'
 baseurl: ''
 title: 'UCF CogSci'
 description: ''
