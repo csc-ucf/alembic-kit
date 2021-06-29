@@ -45,6 +45,8 @@ navigation_header:
 navigation_footer:
 - title: Back to top
   url: "#top"
+- title: Discord
+  url: "https://discord.gg/paeeVzWbVc"
 
 # Collections
 collections:
