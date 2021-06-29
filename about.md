@@ -1,5 +1,5 @@
 ---
-title: About this website
+title: About the Club
 ---
 
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+Here is some more placeholder text; nice!
