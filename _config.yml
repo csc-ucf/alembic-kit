@@ -24,7 +24,7 @@ plugins:
 url: 'https://mydomain.com'
 baseurl: ''
 title: 'UCF CogSci'
-description: 'This is my new website'
+description: ''
 permalink: pretty
 logo: "https://static.vecteezy.com/system/resources/thumbnails/000/585/305/small/006-13.jpg"
 
@@ -39,7 +39,7 @@ navigation_header:
 - title: About
   url: /about/
 - title: Announcements
-  url: /announcements/
+  url: /blog/
 
 # Footer nav
 navigation_footer:
