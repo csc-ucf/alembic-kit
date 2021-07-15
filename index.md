@@ -1,6 +1,6 @@
 ---
 title: Welcome!
-feature_image: "https://github.com/csc-ucf/alembic-kit/blob/master/assets/banner.jpg"
+feature_image: "https://raw.githubusercontent.com/csc-ucf/alembic-kit/master/assets/banner.jpg"
 feature_text: |
   ## UCF Cognitive Science Club
 ---
