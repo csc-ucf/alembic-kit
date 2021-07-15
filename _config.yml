@@ -59,7 +59,7 @@ collections:
     output: true
     description: "General body meetings are every other ___from ___ to ___"
     feature_text: |
-      UCF Cognitive Science Club
+      Announcements
     feature_image: ""
 
 # Collection settings
