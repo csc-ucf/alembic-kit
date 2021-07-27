@@ -61,8 +61,6 @@ collections:
     output: true
     description: "General body meetings are every other Monday from 7:00-8:00 PM"
     feature_text:
-      
-    feature_image: ""
 
 # Collection settings
 defaults:
