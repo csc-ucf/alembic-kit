@@ -2,7 +2,7 @@
 title: Club Leadership
 ---
 
-#President
+<h1 style="text-align:center;">President</h1>
 
 {% include figure.html image="https://raw.githubusercontent.com/csc-ucf/alembic-kit/master/assets/people/Laila_Johnston.jpg" caption="Laila Johnston" %}
 
