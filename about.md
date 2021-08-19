@@ -2,7 +2,7 @@
 title: Club Leadership
 ---
 
-{% include figure.html image="https://raw.githubusercontent.com/csc-ucf/alembic-kit/master/assets/people/Laila_Johnston.jpg" caption="Laila Johnston - President " %}
+{% include figure.html image="https://raw.githubusercontent.com/csc-ucf/alembic-kit/master/assets/people/Laila_Johnston.jpg" position = "left" caption="Laila Johnston - President " %}
 
 {% include figure.html image="https://raw.githubusercontent.com/csc-ucf/alembic-kit/master/assets/people/Paulina%20Kowlessar.jpg" caption="Paulina Kowlessar - Vice President " %}
 
