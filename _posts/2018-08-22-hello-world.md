@@ -4,4 +4,9 @@ categories:
 - General
 ---
 
-This is a test announcement; announcing that cognitive science is cool!
+This is a test announcement.
+
+<!-- more -->
+
+Announcing that cognitive science is awesome!
+
