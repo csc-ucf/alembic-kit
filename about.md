@@ -8,7 +8,7 @@ title: Club Leadership
 
 {% include figure.html image="https://raw.githubusercontent.com/csc-ucf/alembic-kit/master/assets/people/Laila_Johnston.jpg" caption="Laila Johnston" %}
 
-<p>Laila Johnston is a Senior at UCF, majoring in Mathematics and minoring in Computer Science and Philosophy. Currently she is researching visual working memory in Dr. Sam Gershman’s Computational Cognitive Neuroscience Lab. She is interested in investigating the fundamentals of cognitive science using category theory and topology. She wishes to pursue a Ph.D. in Computational Cognitive Science.</p>
+<p>Laila Johnston is a Senior at UCF, majoring in Mathematics and minoring in Computer Science and Philosophy. Currently she is working on creating probabilistic language of thought models in Dr. Josh Tenenbaum’s CoCoSci Lab at MIT. She is interested in investigating the fundamentals of cognitive science using abstract math. She wishes to pursue a Ph.D. in Computational Cognitive Science.</p>
 
 
 
@@ -31,9 +31,9 @@ title: Club Leadership
 
 <h1 style="text-align:center;">Treasurer</h1>
 
-{% include figure.html image="https://raw.githubusercontent.com/csc-ucf/alembic-kit/master/assets/people/Brian.jpg" caption="Brian" %}
+{% include figure.html image="https://raw.githubusercontent.com/csc-ucf/alembic-kit/master/assets/people/Brian.jpg" caption="Brian Acosta" %}
 
-<p></p>
+<p>Brian Acosta is a senior at UCF majoring in Interdisciplinary Studies with focuses in Philosophy and Neuropsychology. His academic interests are in chaos theory, philosophy of mind, cognitive neuroscience, music cognition, and phenomenology. His goal is to conduct graduate research in music cognition and earn a PhD in Neuroscience.</p>
 
 
 
@@ -49,7 +49,7 @@ title: Club Leadership
 
 {% include figure.html image="https://news.cah.ucf.edu/wp-content/uploads/2017/05/Luis-H.-Favela.jpeg" caption="Luis H. Favela" %}
 
-<p>Luis H. Favela is an Associate Professor of Philosophy and Cognitive Sciences at the University of Central Florida. He has been a Fellow at the University of Pittsburgh's Center for Philosophy of Science and Duke University's Summer Seminars in Neuroscience and Philosophy, as well as Visiting Researcher at Indiana University Bloomington's Computational Cognitive Neuroscience Laboratory in the Department of Psychological and Brain Sciences. He earned his Ph.D. in Philosophy at the University of Cincinnati, where he concurrently earned a Master's in Experimental Psychology. Prior to Cincinnati, he earned a Master's in Philosophy at San Diego State University and a Bachelor's in English and Philosophy at the University of San Diego. His interdisciplinary research at the intersection of philosophy and the mind sciences applies complexity science and dynamical systems theory to investigations of behavior, cognition, and consciousness in diverse systems at various spatial and temporal scales. You can visit his <a href="https://luishfavela.wixsite.com/luishfavela">website here.</a> </p>
+<p>Luis H. Favela is an Associate Professor of Philosophy and Cognitive Sciences at the University of Central Florida. He has been a Fellow at the University of Pittsburgh's Center for Philosophy of Science and Duke University's Summer Seminars in Neuroscience and Philosophy, as well as Visiting Researcher at Indiana University Bloomington's Computational Cognitive Neuroscience Laboratory in the Department of Psychological and Brain Sciences. He earned his Ph.D. in Philosophy at the University of Cincinnati, where he concurrently earned a Master's in Experimental Psychology. Prior to Cincinnati, he earned a Master's in Philosophy at San Diego State University and a Bachelor's in English and Philosophy at the University of San Diego. His interdisciplinary research at the intersection of philosophy and the mind sciences applies complexity science and dynamical systems theory to investigations of behavior, cognition, and consciousness in diverse systems at various spatial and temporal scales. You can visit his website <a href="https://luishfavela.wixsite.com/luishfavela"> here.</a> </p>
 
 
 
