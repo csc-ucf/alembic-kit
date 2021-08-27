@@ -47,7 +47,7 @@ title: Club Leadership
 
 <h1 style="text-align:center;">Club Sponsor</h1>
 
-{% include figure.html image="https://news.cah.ucf.edu/wp-content/uploads/2017/05/Luis-H.-Favela.jpeg" caption="Dr. Luis H. Favela" %}
+{% include figure.html image="https://news.cah.ucf.edu/wp-content/uploads/2017/05/Luis-H.-Favela.jpeg" caption="Dr. Luis H. Favela (he/him)" %}
 
 <p>Dr. Luis H. Favela is an Associate Professor of Philosophy and Cognitive Sciences at the University of Central Florida. He has been a Fellow at the University of Pittsburgh's Center for Philosophy of Science and Duke University's Summer Seminars in Neuroscience and Philosophy, as well as Visiting Researcher at Indiana University Bloomington's Computational Cognitive Neuroscience Laboratory in the Department of Psychological and Brain Sciences. He earned his Ph.D. in Philosophy at the University of Cincinnati, where he concurrently earned a Master's in Experimental Psychology. Prior to Cincinnati, he earned a Master's in Philosophy at San Diego State University and a Bachelor's in English and Philosophy at the University of San Diego. His interdisciplinary research at the intersection of philosophy and the mind sciences applies complexity science and dynamical systems theory to investigations of behavior, cognition, and consciousness in diverse systems at various spatial and temporal scales. You can visit his website <a href="https://luishfavela.wixsite.com/luishfavela"> here.</a> </p>
 
