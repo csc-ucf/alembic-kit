@@ -57,7 +57,7 @@ collections:
   posts:
     title: Announcements
     output: true
-    description: "General body meetings are every other Monday from 7:00-8:00 PM"
+    description: "General body meetings are every other Monday from 7:00-8:00 PM in BA1 Room 213"
     feature_text:
 
 # Collection settings
